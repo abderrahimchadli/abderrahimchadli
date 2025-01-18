@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abderrahim Chadli
+# 🌒 Hi, I'm Abderrahim Chadli
 
 **Full-Stack Developer | Cloud Enthusiast | Software Problem-Solver**  
 _Building scalable, impactful web applications._
