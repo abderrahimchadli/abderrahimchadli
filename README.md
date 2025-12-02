@@ -87,7 +87,7 @@ abderrahim.work()
 
 ---
 
-### 🎮 Fun Fact
+### 🎮 
 
 When I'm not coding, I'm exploring literature, gaming, or enjoying sports. Solving problems and delivering elegant software is my passion.
 
@@ -191,7 +191,7 @@ abderrahim.arbeiten()
 
 ---
 
-### 🎮 Fun Fact
+### 🎮 
 
 Wenn ich nicht programmiere, erkunde ich Literatur, spiele Videospiele oder treibe Sport. Probleme zu lösen und elegante Software zu entwickeln ist meine Leidenschaft.
 
