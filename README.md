@@ -1,210 +1,340 @@
-# Hi, I'm Abderrahim Chadli 🌒 
-[English](#english) | [Deutsch](#deutsch)
+# Hi, I'm Abderrahim Chadli 🌒
+
+### Full-Stack Developer · SaaS Builder · Automation Enthusiast
+
+*I build practical software, automate repetitive work, and occasionally climb mountains for no reasonable technical purpose.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://abderrahimchadli.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/abderrahimchadli/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:egaokira@gmail.com)
+[![Goodreads](https://img.shields.io/badge/Goodreads-Books-372213?style=for-the-badge\&logo=goodreads\&logoColor=white)](https://www.goodreads.com/abderrahimchadli)
 
 ---
 
-<a name="english"></a>
-# 🇺🇸 English
+## 👋 About Me
 
-**Full-Stack Developer | Cloud Enthusiast | Software Problem-Solver**  
-_Building scalable, impactful web applications._
+I'm **Abderrahim Chadli**, a full-stack developer from Morocco with experience building web applications, Shopify tools, automation systems, backend services, and business software.
 
-Welcome to my GitHub profile!👻
+Since 2017, I have worked on freelance and independent projects involving e-commerce, browser automation, email systems, APIs, cloud infrastructure, data management, and internal business workflows.
 
-I'm [Abderrahim Chadli](https://abderrahimchadli.github.io/), a versatile full-stack developer passionate about creating robust software solutions. With years of experience in freelancing and leadership roles, I strive to deliver high-quality applications and tackle complex challenges with innovative solutions.
+I particularly enjoy solving problems that sound like this:
 
----
-### Stack
+```text
+"This task takes too much time."
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#.NET](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+"We repeat this process every day."
 
+"Can we automate this?"
 
-### 🚀 What I Do
+"We need an application for this."
+```
 
-- **Full-Stack Development:**  
-  Crafting scalable web applications with **Django**, **.NET**, **React**, and more. I've developed everything from Shopify apps to browser automation tools.
+My goal is not simply to write code. I aim to build software that is:
 
-- **Cloud Computing:**  
-  Proficient in **AWS**, **Azure**, and **Google Cloud Platform**, with experience in server configuration and database management.
-
-- **Automation & Scripting:**  
-  Specializing in **Python** and **Selenium**, I automate workflows, perform data scraping, and develop efficient backend systems.
+* Useful
+* Maintainable
+* Reliable
+* Scalable
+* Easy to understand
+* Capable of solving real problems
 
 ---
 
-### 🖖 Certificates & Achievements
+## 🧰 Technology Stack
 
-- Top projects include Shopify apps, email marketing tools, and e-commerce sites.
-- Successfully automated browser-based workflows with Selenium for tasks like email management and web scraping.
-- Delivered high-quality freelance projects since 2017, utilizing technologies like **C#.NET**, **Bootstrap**, and **JavaScript**.
+### Languages and Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+
+### Cloud and Development Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
 
 ---
 
-### 🛠️ My Tech Toolbox
+## 🚀 What I Do
+
+### Full-Stack Development
+
+I develop complete web applications using technologies such as **Django**, **Django REST Framework**, **ASP.NET Core**, **JavaScript**, **React**, **jQuery**, and **Bootstrap**.
+
+My work includes:
+
+* Business dashboards
+* REST APIs
+* Authentication systems
+* Database-driven applications
+* E-commerce platforms
+* Internal management tools
+* SaaS products
+* Administrative systems
+
+### Shopify Application Development
+
+I build Shopify applications and tools that help merchants manage products, digital content, customer workflows, and store operations.
+
+Some of the areas I have worked on include:
+
+* Digital product delivery
+* License-key management
+* Product importing
+* Store synchronization
+* Merchant workflow automation
+* E-commerce integrations
+
+### Automation and Scripting
+
+I use **Python**, **Selenium**, APIs, and backend systems to automate repetitive and time-consuming processes.
+
+Examples include:
+
+* Browser automation
+* Email management
+* Data scraping and processing
+* Account workflows
+* Store operations
+* Administrative tasks
+* Scheduled backend processes
+
+### Backend and Cloud Infrastructure
+
+I also work with servers, databases, cloud platforms, containers, and deployment environments.
+
+This includes:
+
+* Server configuration
+* Database management
+* Application deployment
+* API integrations
+* Cloud services
+* Error monitoring
+* Performance optimization
+* Infrastructure maintenance
+
+---
+
+## 🎨 Selected Projects
+
+### Shopify Digital Products
+
+A Shopify application for selling and delivering digital files, managing license keys, and controlling customer access to downloadable products.
+
+### Store and Product Importer
+
+A tool designed to simplify product migration, synchronization, and store-management workflows between e-commerce systems.
+
+### Email Marketing Platform
+
+A server-management and bulk-email platform supported by automation scripts, campaign tools, and operational workflows.
+
+### Browser Automation Tools
+
+A collection of Selenium-based tools for:
+
+* Email warm-up
+* Bulk account management
+* Repetitive browser tasks
+* Data extraction
+* Automated login workflows
+* Web scraping
+
+### Property Management API
+
+A backend application built with Django REST Framework, featuring authentication, structured APIs, database management, and API documentation.
+
+### Court Archive and Library Tools
+
+Software developed to support document archiving, library management, and administrative workflows in judicial environments.
+
+---
+
+## 🛠️ My Developer Toolbox
 
 ```python
-class AbderrahimToolbox:
+class Abderrahim:
     def __init__(self):
-        self.languages    = ["Python", "C#.NET", "JavaScript", "VBA"]
-        self.frameworks   = ["Django", ".NET", "React","jQuery"]
-        self.cloud        = ["AWS", "Azure", "Google Cloud Platform"]
-        self.databases    = ["MySQL", "SQL Server", "PostgreSQL"]
-        self.frontend     = ["Bootstrap", "CSS", "HTML"]
-        self.tools        = ["IntelliJ IDEA", "Visual Studio", "VS Code"]
+        self.role = "Full-Stack Developer"
 
-    def work(self):
-        print("Transforming ideas into scalable solutions! 🚀")
+        self.languages = [
+            "Python",
+            "C#",
+            "JavaScript",
+            "VBA",
+        ]
 
-    def take_a_break(self):
-        print("Exploring literature or gaming to recharge. ☕")
+        self.frameworks = [
+            "Django",
+            "Django REST Framework",
+            "ASP.NET Core",
+            "React",
+            "jQuery",
+            "Bootstrap",
+        ]
 
-# Activate the toolbox
-abderrahim = AbderrahimToolbox()
-abderrahim.work()
+        self.databases = [
+            "PostgreSQL",
+            "MySQL",
+            "SQL Server",
+        ]
+
+        self.cloud = [
+            "AWS",
+            "Microsoft Azure",
+            "Google Cloud Platform",
+        ]
+
+        self.tools = [
+            "Docker",
+            "Git",
+            "GitHub",
+            "Selenium",
+            "Visual Studio",
+            "VS Code",
+        ]
+
+        self.interests = [
+            "SaaS products",
+            "Shopify applications",
+            "Automation",
+            "Backend systems",
+            "Cloud infrastructure",
+        ]
+
+    def solve(self, problem):
+        return f"Turning '{problem}' into a practical software solution."
+
+    def debug(self, problem):
+        attempts = 0
+
+        while problem and attempts < 10:
+            attempts += 1
+            print(f"Debugging attempt #{attempts}...")
+
+            if attempts == 10:
+                return "The bug has officially become a feature."
+
+        return "Problem solved. Probably."
+
+    def recharge(self):
+        return [
+            "Reading",
+            "Gaming",
+            "Sports",
+            "Mountain climbing",
+        ]
+
+
+developer = Abderrahim()
+
+print(developer.solve("a complex business workflow"))
 ```
 
 ---
 
-### 🎨 Notable Projects
+## 🔭 Current Interests
 
-- **Shopify Applications:** Built tools for digital downloads, key management, and store importers.
-- **Email Marketing Platform:** Developed a server management and bulk mailer system with automation scripts.
-- **Automation Tools:** Created browser automation workflows for email warm-up, bulk email management, and web scraping.
-- **Judicial Tools:** Developed archiving and library management software for courts.
+I am particularly interested in building software around:
 
----
+* SaaS products
+* Shopify applications
+* AI-powered tools
+* Business automation
+* E-commerce systems
+* Cloud-based platforms
+* Backend architecture
+* Developer productivity
 
-### 🎮 
-
-When I'm not coding, I'm exploring literature, gaming, or enjoying sports. Solving problems and delivering elegant software is my passion.
-
----
-
-### 📨 Let's Connect
-
-I'm open to exciting projects and collaborations. Reach out to me via:
-
-- **[LinkedIn](https://www.linkedin.com/in/abderrahimchadli/)**
-- **[Portfolio](https://abderrahimchadli.github.io/)**
-- **[Email](mailto:egaokira@gmail.com)**
+I enjoy projects where software can reduce manual work, simplify complicated processes, or turn an idea into a practical product.
 
 ---
 
-Explore my repositories to discover more about my work and contributions to the open-source community!
+## 🏔️ Beyond Code
 
----
+When I'm not coding, I enjoy reading, gaming, sports, learning new things, and climbing mountains.
 
-<a name="deutsch"></a>
-# 🇩🇪 Deutsch
+I enjoy mountain climbing because apparently debugging software was not stressful enough.
 
-**Full-Stack Entwickler | Cloud-Enthusiast | Software-Problemlöser**  
-_Entwicklung skalierbarer, wirkungsvoller Webanwendungen._
+If you ever hear someone screaming alone somewhere on a mountain, do not panic.
 
-Willkommen auf meinem GitHub-Profil!👻
+It is probably me:
 
-Ich bin [Abderrahim Chadli](https://abderrahimchadli.github.io/), ein vielseitiger Full-Stack Entwickler mit Leidenschaft für robuste Softwarelösungen. Mit jahrelanger Erfahrung in Freelancing und Führungspositionen strebe ich danach, hochwertige Anwendungen zu entwickeln und komplexe Herausforderungen mit innovativen Lösungen zu meistern.
-
----
-### Tech-Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#.NET](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
-### 🚀 Was ich mache
-
-- **Full-Stack Entwicklung:**  
-  Entwicklung skalierbarer Webanwendungen mit **Django**, **.NET**, **React** und mehr. Ich habe verschiedene Projekte entwickelt, von Shopify-Apps bis hin zu Browser-Automatisierungstools.
-
-- **Cloud Computing:**  
-  Erfahrung mit **AWS**, **Azure** und **Google Cloud Platform**, einschließlich Server-Konfiguration und Datenbank-Management.
-
-- **Automatisierung & Skripting:**  
-  Spezialisierung auf **Python** und **Selenium** für Workflow-Automatisierung, Daten-Scraping und effiziente Backend-Systeme.
-
----
-
-### 🖖 Zertifikate & Erfolge
-
-- Wichtige Projekte umfassen Shopify-Apps, E-Mail-Marketing-Tools und E-Commerce-Websites.
-- Erfolgreiche Automatisierung browserbasierter Workflows mit Selenium für E-Mail-Management und Web-Scraping.
-- Seit 2017 erfolgreiche Durchführung von Freelance-Projekten mit Technologien wie **C#.NET**, **Bootstrap** und **JavaScript**.
-
----
-
-### 🛠️ Meine Tech-Toolbox
+* Celebrating because I finally reached the top
+* Discovering that the trail continues for another three hours
+* Realizing that I still have to climb back down
+* Or remembering a bug in my code from 2,000 metres above sea level
 
 ```python
-class AbderrahimToolbox:
-    def __init__(self):
-        self.sprachen     = ["Python", "C#.NET", "JavaScript", "VBA"]
-        self.frameworks   = ["Django", ".NET", "React", "jQuery"]
-        self.cloud        = ["AWS", "Azure", "Google Cloud Platform"]
-        self.datenbanken  = ["MySQL", "SQL Server", "PostgreSQL"]
-        self.frontend     = ["Bootstrap", "CSS", "HTML"]
-        self.werkzeuge    = ["IntelliJ IDEA", "Visual Studio", "VS Code"]
+def weekend_plan(weather, energy):
+    if weather == "good" and energy > 50:
+        return "Climb a mountain and question every life decision."
 
-    def arbeiten(self):
-        print("Ideen in skalierbare Lösungen umwandeln! 🚀")
-
-    def pause_machen(self):
-        print("Literatur erkunden oder Gaming zur Entspannung. ☕")
-
-# Toolbox aktivieren
-abderrahim = AbderrahimToolbox()
-abderrahim.arbeiten()
+    return "Read, game, code, and pretend Monday is far away."
 ```
 
----
-
-### 🎨 Wichtige Projekte
-
-- **Shopify-Anwendungen:** Entwicklung von Tools für digitale Downloads, Schlüsselverwaltung und Store-Importer.
-- **E-Mail-Marketing-Plattform:** Entwicklung eines Server-Management- und Massen-Mailing-Systems mit Automatisierungsskripten.
-- **Automatisierungstools:** Erstellung von Browser-Automatisierungsworkflows für E-Mail-Warming, Massen-E-Mail-Management und Web-Scraping.
-- **Justiz-Tools:** Entwicklung von Archivierungs- und Bibliotheksverwaltungssoftware für Gerichte.
+You can see the books I am reading, have completed, or plan to read on my **[Goodreads profile](https://www.goodreads.com/abderrahimchadli)**.
 
 ---
 
-### 🎮 
+## 👻 A Few Developer Facts
 
-Wenn ich nicht programmiere, erkunde ich Literatur, spiele Videospiele oder treibe Sport. Probleme zu lösen und elegante Software zu entwickeln ist meine Leidenschaft.
+```javascript
+const abderrahim = {
+    drinksCoffee: false,
+    enjoysDebugging: "depends on the bug",
+    likesAutomation: true,
+    readsDocumentation: "eventually",
+    opensTooManyTabs: true,
+    mountainClimbingSkill: "still alive",
+    favoriteError: null
+};
+```
+
+* I automate repetitive tasks because doing the same thing twice already feels suspicious.
+* I like clean code, but sometimes the code has different plans.
+* I do not drink coffee, so every line of code is powered by pure determination.
+* I believe every difficult bug eventually becomes a solution, a workaround, or undocumented behaviour.
+* I enjoy learning new technologies, especially when they solve actual problems.
+* I sometimes climb mountains to escape screens, then take photos using another screen.
 
 ---
 
-### 📨 Lass uns in Kontakt bleiben
+## 📨 Let's Connect
 
-Ich bin offen für spannende Projekte und Zusammenarbeit. Erreichen Sie mich über:
+I'm open to interesting projects, SaaS ideas, collaborations, freelance work, and professional opportunities.
 
-- **[LinkedIn](https://www.linkedin.com/in/abderrahimchadli/)**
-- **[Portfolio](https://abderrahimchadli.github.io/)**
-- **[E-Mail](mailto:egaokira@gmail.com)**
+* 🌐 **Portfolio:** [abderrahimchadli.github.io](https://abderrahimchadli.github.io/)
+* 💼 **LinkedIn:** [Abderrahim Chadli](https://www.linkedin.com/in/abderrahimchadli/)
+* 📚 **Goodreads:** [My reading profile](https://www.goodreads.com/abderrahimchadli)
+* 📧 **Email:** [egaokira@gmail.com](mailto:egaokira@gmail.com)
 
 ---
 
-Entdecken Sie meine Repositories, um mehr über meine Arbeit und Beiträge zur Open-Source-Community zu erfahren!
+> Build useful things. Automate what can be automated. Debug the rest.
+
+```text
+Code.
+Learn.
+Build.
+Climb.
+Repeat.
+```
