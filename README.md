@@ -9,7 +9,11 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egaokira@gmail.com)
 [![Goodreads](https://img.shields.io/badge/Goodreads-Books-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/abderrahimchadli)
 
+[About](#about) · [Technology](#stack) · [What I do](#work) · [Projects](#projects) · [Contact](#contact)
+
 ---
+
+<a id="about"></a>
 
 ## 👋 About Me
 
@@ -68,6 +72,8 @@ You can see the books I am reading, have completed, or plan to read on my **[Goo
 
 ---
 
+<a id="stack"></a>
+
 ## 🧰 Technology Stack
 
 ### Languages and Frameworks
@@ -99,6 +105,8 @@ You can see the books I am reading, have completed, or plan to read on my **[Goo
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
+
+<a id="work"></a>
 
 ## 🚀 What I Do
 
@@ -160,6 +168,8 @@ This includes:
 * Infrastructure maintenance
 
 ---
+
+<a id="projects"></a>
 
 ## 🎨 Selected Projects
 
@@ -318,6 +328,8 @@ const abderrahim = {
 * I sometimes climb mountains to escape screens, then take photos using another screen.
 
 ---
+
+<a id="contact"></a>
 
 ## 📨 Let's Connect
 
