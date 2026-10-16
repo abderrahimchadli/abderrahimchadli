@@ -29,6 +29,7 @@ I particularly enjoy solving problems that sound like this:
 "We need an application for this."
 ```
 
+
 My goal is not simply to write code. I aim to build software that is:
 
 * Useful
@@ -37,6 +38,33 @@ My goal is not simply to write code. I aim to build software that is:
 * Scalable
 * Easy to understand
 * Capable of solving real problems
+
+---
+
+## 🏔️ Beyond Code
+
+When I'm not coding, I enjoy reading, gaming, sports, learning new things, and climbing mountains.
+
+I enjoy mountain climbing because apparently debugging software was not stressful enough.
+
+If you ever hear someone screaming alone somewhere on a mountain, do not panic.
+
+It is probably me:
+
+* Celebrating because I finally reached the top
+* Discovering that the trail continues for another three hours
+* Realizing that I still have to climb back down
+* Or remembering a bug in my code from 2,000 metres above sea level
+
+```python
+def weekend_plan(weather, energy):
+    if weather == "good" and energy > 50:
+        return "Climb a mountain and question every life decision."
+
+    return "Read, game, code, and pretend Monday is far away."
+```
+
+You can see the books I am reading, have completed, or plan to read on my **[Goodreads profile](https://www.goodreads.com/abderrahimchadli)**.
 
 ---
 
