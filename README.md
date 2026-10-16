@@ -186,7 +186,7 @@ A collection of Selenium-based tools for:
 * Automated login workflows
 * Web scraping
 
-### Property Management API
+### [Property Management API](https://github.com/abderrahimchadli/property_management)
 
 A backend application built with Django REST Framework, featuring authentication, structured APIs, database management, and API documentation.
 
