@@ -1,6 +1,6 @@
 # Hi, I'm Abderrahim Chadli 🌒
 
-### Full-Stack Developer · SaaS Builder · Automation Enthusiast
+### Full-Stack Developer · SaaS Builder · Automation Enthusiast · ai developer
 
 *I build practical software, automate repetitive work, and occasionally climb mountains for no reasonable technical purpose.*
 
